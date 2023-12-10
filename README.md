@@ -88,6 +88,37 @@
 
 # screenshots:
 
-          ![homepage](https://github.com/likith-raj-k/Fitness_Trainer_Appointment_Scheduling_Website/assets/91479150/ffc30c67-4a52-482c-b91a-1a396557ddc1.png)
-      
-          
+  # 1. homepage
+  
+  ![homepage](https://github.com/likith-raj-k/Fitness_Trainer_Appointment_Scheduling_Website/assets/91479150/81ec4ddd-68d0-4674-aa15-a4495b28595e)
+
+  # 2. After Clicking the "Add Customer" Button
+  
+  ![add_customer](https://github.com/likith-raj-k/Fitness_Trainer_Appointment_Scheduling_Website/assets/91479150/a443a105-32e8-46f4-8d12-a8e14729ac9b)
+
+  # 3. The customer Added in a separate row
+  
+  ![add_customer_success](https://github.com/likith-raj-k/Fitness_Trainer_Appointment_Scheduling_Website/assets/91479150/a79a0bf8-8eec-418e-9faa-48a9404d6a17)
+
+  # 4. After Clicking "View Button"
+  
+  ![viewpage1](https://github.com/likith-raj-k/Fitness_Trainer_Appointment_Scheduling_Website/assets/91479150/6db18a7f-2ea9-471a-a18a-81ebcea9c687)
+
+   # 5. Click on the "Edit" Button
+   
+   ![viewpage2](https://github.com/likith-raj-k/Fitness_Trainer_Appointment_Scheduling_Website/assets/91479150/67b22960-fc4b-4819-99a6-8877ccf6f35f)
+
+   # 6. Click on the "Save" button
+   
+   ![viewpage3](https://github.com/likith-raj-k/Fitness_Trainer_Appointment_Scheduling_Website/assets/91479150/862e62c7-f43f-4e15-85d4-ba65d118b0ba)
+
+  # 7. Click on the "Add Appointment" button
+
+  ![viewpage4](https://github.com/likith-raj-k/Fitness_Trainer_Appointment_Scheduling_Website/assets/91479150/7ff85a8e-dbcf-4f53-817b-b1f78834743b)
+
+  # 8. Click on the "Delete" button it will delete one of the appointment details from the table. It displays the confirmation alert message for deletion.
+  ![viewpage5](https://github.com/likith-raj-k/Fitness_Trainer_Appointment_Scheduling_Website/assets/91479150/7d2c78cd-5d88-4c0f-86bc-c4dbb889c326)
+
+  
+
+
