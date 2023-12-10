@@ -7,8 +7,7 @@ body, html {
     height: 100vh; /* Set full viewport height */
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
-    background-image: url('https://thumbs.dreamstime.com/b/metal-dumbbell-gym-background-d-rendering-78457398.jpg'); /* Replace with your image path */
+    background-image: url('/assets/lifting1.jpg');
     display: flex;
     flex-direction: column;
     align-items: center;
