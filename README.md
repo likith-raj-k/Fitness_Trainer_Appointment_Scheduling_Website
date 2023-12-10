@@ -9,12 +9,12 @@ Getting Started:
     Follow these instructions to get a copy of the project up and running on your local machine.
 
 
-Prerequisites:
+1. Prerequisites:
 
     Node.js and npm installed on your machine.
 
 
-Installing:
+2. Installing:
 
     Clone the repository to your local machine.
 
@@ -29,8 +29,7 @@ Installing:
         npm install
 
     
-
-Running the Application:
+3. Running the Application:
 
     Start the Angular development server.
 
