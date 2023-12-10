@@ -1,20 +1,20 @@
 
-Fitness_Trainer_Appointment_Scheduling_Website
+# Fitness_Trainer_Appointment_Scheduling_Website
 
     This project is a simple Angular application for managing customer data, including adding, viewing, and deleting customers. It also provides functionality for scheduling customer appointments.
 
 
-Getting Started:
+ # Getting Started:
 
     Follow these instructions to get a copy of the project up and running on your local machine.
 
 
-1. Prerequisites:
+# 1. Prerequisites:
 
-    Node.js and npm installed on your machine.
+    Node.js and npm are installed on your machine.
 
 
-2. Installing:
+# 2. Installing:
 
     Clone the repository to your local machine.
 
@@ -29,7 +29,7 @@ Getting Started:
         npm install
 
     
-3. Running the Application:
+# 3. Running the Application:
 
     Start the Angular development server.
 
@@ -39,7 +39,7 @@ Getting Started:
 
 
 
-Features:
+# Features:
 
     Add new customers with details such as first name, last name, and location.
 
@@ -50,7 +50,7 @@ Features:
     View and edit customer details, including scheduling appointments.
 
 
-Usage:
+# Usage:
 
     Adding a Customer:
 
@@ -79,9 +79,15 @@ Usage:
         You can also schedule appointments by clicking the "Add Appointment" button.
 
 
-Built With:
+# Built With:
 
     Angular - The web framework used.
 
     Angular Material - UI component library.
 
+
+# screenshots:
+
+          ![homepage](https://github.com/likith-raj-k/Fitness_Trainer_Appointment_Scheduling_Website/assets/91479150/ffc30c67-4a52-482c-b91a-1a396557ddc1.png)
+      
+          
