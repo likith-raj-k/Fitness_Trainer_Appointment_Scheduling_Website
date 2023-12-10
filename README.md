@@ -1,5 +1,5 @@
 
-Fitness_Trainer_Appointment_Scheduling_Website
+# Fitness_Trainer_Appointment_Scheduling_Website
 
     This project is a simple Angular application for managing customer data, including adding, viewing, and deleting customers. It also provides functionality for scheduling customer appointments.
 
