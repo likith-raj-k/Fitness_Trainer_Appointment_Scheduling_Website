@@ -1,0 +1,12 @@
+<div class="dialog-container">
+    <h2 mat-dialog-title>Edit Customer</h2>
+    <div mat-dialog-content>
+      <p><strong>First Name:</strong> <input [(ngModel)]="data.firstName" /></p>
+      <p><strong>Last Name:</strong> <input [(ngModel)]="data.lastName" /></p>
+      <p><strong>Location:</strong> <input [(ngModel)]="data.location" /></p>
+    </div>
+    <div mat-dialog-actions>
+        <button mat-button (click)="onNoClick()">Cancel</button>
+        <button mat-button (click)="onSaveClick()" cdkFocusInitial>Save</button>
+    </div>
+</div>

@@ -1,0 +1,24 @@
+
+<h2 mat-dialog-title>Add Customer</h2>
+<div class="main">
+    <div mat-dialog-content>
+        <form>
+            <div class="mb-3">
+                <label for="firstName" class="form-label"><strong>First Name:</strong></label>
+                <input id="firstName" [(ngModel)]="customer.firstname" name="first" class="form-control" />
+            </div>
+            <div class="mb-3">
+                <label for="lastName" class="form-label"><strong>Last Name:</strong></label>
+                <input id="lastName" [(ngModel)]="customer.lastname" name="last" class="form-control" />
+            </div>
+            <div class="mb-3">
+                <label for="location" class="form-label"><strong>Location:</strong></label>
+                <input id="location" [(ngModel)]="customer.location" name="location" class="form-control" />
+            </div>
+        </form>
+    </div>
+    <div mat-dialog-actions class="d-flex justify-content-end">
+        <button mat-button (click)="onNoClick()" class="btn btn-secondary">Cancel</button>
+        <button mat-button [mat-dialog-close]="customer" cdkFocusInitial class="btn btn-success">Add</button>
+    </div>
+</div>

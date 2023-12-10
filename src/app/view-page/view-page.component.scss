@@ -1,0 +1,20 @@
+.customer-details-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10vh; /* Adjust the value to control the vertical position */
+}
+  
+  
+.custom-table {
+    max-width: 50%; /* Adjust the value as needed */
+    margin: auto; /* Center the table horizontally */
+}
+
+
+@media only screen and (max-width: 768px) {
+    .table {
+        // margin-top: 20px; /* Adjust margin as needed */
+        width: 100%; /* Set the width of the table as a percentage or a fixed value */
+    }
+}
