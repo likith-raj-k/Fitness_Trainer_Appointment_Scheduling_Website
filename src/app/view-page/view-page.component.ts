@@ -37,9 +37,10 @@ export class ViewPageComponent implements OnInit {
     });
   }
 
-  // Method to show alert mesaage for save button
+// Method to show alert mesaage for save button
   public showSuccessAlert(): void {
     this.showAlert = true;
+    this.editMode = false; // Set editMode to false when showing the alert
     setTimeout(() => {
       this.closeAlert();
     }, 1500);

@@ -19,11 +19,10 @@
           </p>
         </div>
     </div>
-  
     <div class="row mb-3">
         <div class="col-md-12">
-          <button class="btn btn-success" *ngIf="editMode" (click)="showSuccessAlert()">Save</button>&nbsp;
-          <button class="btn btn-secondary" *ngIf="editMode" (click)="cancelEdit()">Cancel</button>
+          <button class="btn btn-success" *ngIf="editMode && !showAlert" (click)="showSuccessAlert()">Save</button>&nbsp;
+          <button class="btn btn-secondary" *ngIf="editMode && !showAlert" (click)="cancelEdit()">Cancel</button>
         </div>
     </div>
   
