@@ -85,3 +85,9 @@
 
     Angular Material - UI component library.
 
+
+# screenshots:
+
+          ![homepage](https://github.com/likith-raj-k/Fitness_Trainer_Appointment_Scheduling_Website/assets/91479150/ffc30c67-4a52-482c-b91a-1a396557ddc1.png)
+      
+          
