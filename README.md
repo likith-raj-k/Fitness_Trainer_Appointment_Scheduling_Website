@@ -110,15 +110,17 @@
 
    # 6. Click on the "Save" button
    
-   ![viewpage3](https://github.com/likith-raj-k/Fitness_Trainer_Appointment_Scheduling_Website/assets/91479150/862e62c7-f43f-4e15-85d4-ba65d118b0ba)
+   ![viewpage3](https://github.com/likith-raj-k/Fitness_Trainer_Appointment_Scheduling_Website/assets/91479150/926e2948-bbb2-4c84-938d-081b88e8b1a5)
+
 
   # 7. Click on the "Add Appointment" button
 
-  ![viewpage4](https://github.com/likith-raj-k/Fitness_Trainer_Appointment_Scheduling_Website/assets/91479150/7ff85a8e-dbcf-4f53-817b-b1f78834743b)
+  ![viewpage4](https://github.com/likith-raj-k/Fitness_Trainer_Appointment_Scheduling_Website/assets/91479150/24b616b3-8781-4ab4-9897-5f215ac0ec06)
+
 
   # 8. Click on the "Delete" button it will delete one of the appointment details from the table. It displays the confirmation alert message for deletion.
-  ![viewpage5](https://github.com/likith-raj-k/Fitness_Trainer_Appointment_Scheduling_Website/assets/91479150/7d2c78cd-5d88-4c0f-86bc-c4dbb889c326)
-
   
+  ![viewpage5](https://github.com/likith-raj-k/Fitness_Trainer_Appointment_Scheduling_Website/assets/91479150/b2f06d34-e69d-4e35-9a8c-9fe336b9ccef)
+
 
 
